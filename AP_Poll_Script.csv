@@ -1,0 +1,601 @@
+Season,Week,Rank,Team
+2014,Preseason,1,Florida State
+2014,Preseason,2,Alabama
+2014,Preseason,3,Oregon
+2014,Preseason,4,Oklahoma
+2014,Preseason,5,Ohio State
+2014,Preseason,6,Auburn
+2014,Preseason,7,UCLA
+2014,Preseason,8,Michigan State
+2014,Preseason,9,South Carolina
+2014,Preseason,10,Baylor
+2014,Preseason,11,Stanford
+2014,Preseason,12,Georgia
+2014,Preseason,13,LSU
+2014,Preseason,14,Wisconsin
+2014,Preseason,15,USC
+2014,Preseason,16,Clemson
+2014,Preseason,17,Notre Dame
+2014,Preseason,18,Ole Miss
+2014,Preseason,19,Arizona State
+2014,Preseason,20,Kansas State
+2014,Preseason,21,Texas A&M
+2014,Preseason,22,Nebraska
+2014,Preseason,23,North Carolina
+2014,Preseason,24,Missouri
+2014,Preseason,25,Washington
+2014,Postseason,1,Ohio State
+2014,Postseason,2,Oregon
+2014,Postseason,3,TCU
+2014,Postseason,4,Alabama
+2014,Postseason,5,Florida State
+2014,Postseason,6,Michigan State
+2014,Postseason,7,Baylor
+2014,Postseason,8,Georgia Tech
+2014,Postseason,9,Georgia
+2014,Postseason,10,UCLA
+2014,Postseason,11,Mississippi State
+2014,Postseason,12,Arizona State
+2014,Postseason,13,Wisconsin
+2014,Postseason,14,Missouri
+2014,Postseason,15,Clemson
+2014,Postseason,16,Boise State
+2014,Postseason,17,Ole Miss
+2014,Postseason,18,Kansas State
+2014,Postseason,19,Arizona
+2014,Postseason,20,USC
+2014,Postseason,21,Utah
+2014,Postseason,22,Auburn
+2014,Postseason,23,Marshall
+2014,Postseason,24,Louisville
+2014,Postseason,25,Memphis
+2015,Preseason,1,Ohio State
+2015,Preseason,2,TCU
+2015,Preseason,3,Alabama
+2015,Preseason,4,Baylor
+2015,Preseason,5,Michigan State
+2015,Preseason,6,Auburn
+2015,Preseason,7,Oregon
+2015,Preseason,8,USC
+2015,Preseason,9,Georgia
+2015,Preseason,10,Florida State
+2015,Preseason,11,Notre Dame
+2015,Preseason,12,Clemson
+2015,Preseason,13,UCLA
+2015,Preseason,14,LSU
+2015,Preseason,15,Arizona State
+2015,Preseason,16,Georgia Tech
+2015,Preseason,17,Ole Miss
+2015,Preseason,18,Arkansas
+2015,Preseason,19,Oklahoma
+2015,Preseason,20,Wisconsin
+2015,Preseason,21,Stanford
+2015,Preseason,22,Arizona
+2015,Preseason,23,Boise State
+2015,Preseason,24,Missouri
+2015,Preseason,25,Tennessee
+2015,Postseason,1,Alabama
+2015,Postseason,2,Clemson
+2015,Postseason,3,Stanford
+2015,Postseason,4,Ohio State
+2015,Postseason,5,Oklahoma
+2015,Postseason,6,Michigan State
+2015,Postseason,7,TCU
+2015,Postseason,8,Houston
+2015,Postseason,9,Iowa
+2015,Postseason,10,Ole Miss
+2015,Postseason,11,Notre Dame
+2015,Postseason,12,Michigan
+2015,Postseason,13,Baylor
+2015,Postseason,14,Florida State
+2015,Postseason,15,North Carolina
+2015,Postseason,16,LSU
+2015,Postseason,17,Utah
+2015,Postseason,18,Navy
+2015,Postseason,19,Oregon
+2015,Postseason,20,Oklahoma State
+2015,Postseason,21,Wisconsin
+2015,Postseason,22,Tennessee
+2015,Postseason,23,Northwestern
+2015,Postseason,24,Western Kentucky
+2015,Postseason,25,Florida
+2016,Preseason,1,Alabama
+2016,Preseason,2,Clemson
+2016,Preseason,3,Oklahoma
+2016,Preseason,4,Florida State
+2016,Preseason,5,LSU
+2016,Preseason,6,Ohio State
+2016,Preseason,7,Michigan
+2016,Preseason,8,Stanford
+2016,Preseason,9,Tennessee
+2016,Preseason,10,Notre Dame
+2016,Preseason,11,Ole Miss
+2016,Preseason,12,Michigan State
+2016,Preseason,13,TCU
+2016,Preseason,14,Washington
+2016,Preseason,15,Houston
+2016,Preseason,16,UCLA
+2016,Preseason,17,Iowa
+2016,Preseason,18,Georgia
+2016,Preseason,19,Louisville
+2016,Preseason,20,USC
+2016,Preseason,21,Oklahoma State
+2016,Preseason,22,North Carolina
+2016,Preseason,23,Baylor
+2016,Preseason,24,Oregon
+2016,Preseason,25,Florida
+2016,Postseason,1,Clemson
+2016,Postseason,2,Alabama
+2016,Postseason,3,USC
+2016,Postseason,4,Washington
+2016,Postseason,5,Oklahoma
+2016,Postseason,6,Ohio State
+2016,Postseason,7,Penn State
+2016,Postseason,8,Florida State
+2016,Postseason,9,Wisconsin
+2016,Postseason,10,Michigan
+2016,Postseason,11,Oklahoma State
+2016,Postseason,12,Stanford
+2016,Postseason,13,LSU
+2016,Postseason,14,Florida
+2016,Postseason,15,Western Michigan
+2016,Postseason,16,Virginia Tech
+2016,Postseason,17,Colorado
+2016,Postseason,18,West Virginia
+2016,Postseason,19,South Florida
+2016,Postseason,20,Miami (FL)
+2016,Postseason,21,Louisville
+2016,Postseason,22,Tennessee
+2016,Postseason,23,Utah
+2016,Postseason,24,Auburn
+2016,Postseason,25,San Diego State
+2017,Preseason,1,Alabama
+2017,Preseason,2,Ohio State
+2017,Preseason,3,Florida State
+2017,Preseason,4,USC
+2017,Preseason,5,Clemson
+2017,Preseason,6,Penn State
+2017,Preseason,7,Oklahoma
+2017,Preseason,8,Washington
+2017,Preseason,9,Wisconsin
+2017,Preseason,10,Oklahoma State
+2017,Preseason,11,Michigan
+2017,Preseason,12,Auburn
+2017,Preseason,13,LSU
+2017,Preseason,14,Stanford
+2017,Preseason,15,Georgia
+2017,Preseason,16,Louisville
+2017,Preseason,17,Florida
+2017,Preseason,18,Miami (FL)
+2017,Preseason,19,South Florida
+2017,Preseason,20,Kansas State
+2017,Preseason,21,Virginia Tech
+2017,Preseason,22,West Virginia
+2017,Preseason,23,Texas
+2017,Preseason,24,Washington State
+2017,Preseason,25,Tennessee
+2017,Postseason,1,Alabama
+2017,Postseason,2,Georgia
+2017,Postseason,3,Oklahoma
+2017,Postseason,4,Clemson
+2017,Postseason,5,Ohio State
+2017,Postseason,6,UCF
+2017,Postseason,7,Wisconsin
+2017,Postseason,8,Penn State
+2017,Postseason,9,TCU
+2017,Postseason,10,Auburn
+2017,Postseason,11,Notre Dame
+2017,Postseason,12,USC
+2017,Postseason,13,Miami (FL)
+2017,Postseason,14,Oklahoma State
+2017,Postseason,15,Michigan State
+2017,Postseason,16,Washington
+2017,Postseason,17,Northwestern
+2017,Postseason,18,LSU
+2017,Postseason,19,Mississippi State
+2017,Postseason,20,Stanford
+2017,Postseason,21,South Florida
+2017,Postseason,22,Boise State
+2017,Postseason,23,NC State
+2017,Postseason,24,Virginia Tech
+2017,Postseason,25,Memphis
+2018,Preseason,1,Alabama
+2018,Preseason,2,Clemson
+2018,Preseason,3,Georgia
+2018,Preseason,4,Wisconsin
+2018,Preseason,5,Ohio State
+2018,Preseason,6,Washington
+2018,Preseason,7,Oklahoma
+2018,Preseason,8,Miami (FL)
+2018,Preseason,9,Auburn
+2018,Preseason,10,Penn State
+2018,Preseason,11,Michigan State
+2018,Preseason,12,Notre Dame
+2018,Preseason,13,Stanford
+2018,Preseason,14,Michigan
+2018,Preseason,15,USC
+2018,Preseason,16,TCU
+2018,Preseason,17,West Virginia
+2018,Preseason,18,Mississippi State
+2018,Preseason,19,Florida State
+2018,Preseason,20,Virginia Tech
+2018,Preseason,21,UCF
+2018,Preseason,22,Boise State
+2018,Preseason,23,Texas
+2018,Preseason,24,Oregon
+2018,Preseason,25,LSU
+2018,Postseason,1,Clemson
+2018,Postseason,2,Alabama
+2018,Postseason,3,Ohio State
+2018,Postseason,4,Oklahoma
+2018,Postseason,5,Notre Dame
+2018,Postseason,6,LSU
+2018,Postseason,7,Georgia
+2018,Postseason,8,Florida
+2018,Postseason,9,Texas
+2018,Postseason,10,Washington State
+2018,Postseason,11,UCF
+2018,Postseason,12,Kentucky
+2018,Postseason,13,Washington
+2018,Postseason,14,Michigan
+2018,Postseason,15,Syracuse
+2018,Postseason,16,Texas A&M
+2018,Postseason,17,Penn State
+2018,Postseason,18,Fresno State
+2018,Postseason,19,Army
+2018,Postseason,20,West Virginia
+2018,Postseason,21,Northwestern
+2018,Postseason,22,Utah State
+2018,Postseason,23,Boise State
+2018,Postseason,24,Cincinnati
+2018,Postseason,25,Iowa
+2019,Preseason,1,Clemson
+2019,Preseason,2,Alabama
+2019,Preseason,3,Georgia
+2019,Preseason,4,Oklahoma
+2019,Preseason,5,Ohio State
+2019,Preseason,6,LSU
+2019,Preseason,7,Michigan
+2019,Preseason,8,Florida
+2019,Preseason,9,Notre Dame
+2019,Preseason,10,Texas
+2019,Preseason,11,Oregon
+2019,Preseason,12,Texas A&M
+2019,Preseason,13,Washington
+2019,Preseason,14,Utah
+2019,Preseason,15,Penn State
+2019,Preseason,16,Auburn
+2019,Preseason,17,UCF
+2019,Preseason,18,Michigan State
+2019,Preseason,19,Wisconsin
+2019,Preseason,20,Iowa
+2019,Preseason,21,Iowa State
+2019,Preseason,22,Syracuse
+2019,Preseason,23,Washington State
+2019,Preseason,24,Nebraska
+2019,Preseason,25,Stanford
+2019,Postseason,1,LSU
+2019,Postseason,2,Clemson
+2019,Postseason,3,Ohio State
+2019,Postseason,4,Georgia
+2019,Postseason,5,Oregon
+2019,Postseason,6,Florida
+2019,Postseason,7,Oklahoma
+2019,Postseason,8,Alabama
+2019,Postseason,9,Penn State
+2019,Postseason,10,Minnesota
+2019,Postseason,11,Wisconsin
+2019,Postseason,12,Notre Dame
+2019,Postseason,13,Baylor
+2019,Postseason,14,Auburn
+2019,Postseason,15,Iowa
+2019,Postseason,16,Utah
+2019,Postseason,17,Memphis
+2019,Postseason,18,Michigan
+2019,Postseason,19,Appalachian State
+2019,Postseason,20,Navy
+2019,Postseason,21,Cincinnati
+2019,Postseason,22,Air Force
+2019,Postseason,23,Boise State
+2019,Postseason,24,UCF
+2019,Postseason,25,Texas
+2020,Preseason,1,Clemson
+2020,Preseason,2,Ohio State
+2020,Preseason,3,Alabama
+2020,Preseason,4,Georgia
+2020,Preseason,5,Oklahoma
+2020,Preseason,6,LSU
+2020,Preseason,7,Penn State
+2020,Preseason,8,Florida
+2020,Preseason,9,Oregon
+2020,Preseason,10,Notre Dame
+2020,Preseason,11,Auburn
+2020,Preseason,12,Wisconsin
+2020,Preseason,13,Texas A&M
+2020,Preseason,14,Texas
+2020,Preseason,15,Oklahoma State
+2020,Preseason,16,Michigan
+2020,Preseason,17,USC
+2020,Preseason,18,North Carolina
+2020,Preseason,19,Minnesota
+2020,Preseason,20,Cincinnati
+2020,Preseason,21,UCF
+2020,Preseason,22,Utah
+2020,Preseason,23,Iowa State
+2020,Preseason,24,Iowa
+2020,Preseason,25,Tennessee
+2020,Postseason,1,Alabama
+2020,Postseason,2,Ohio State
+2020,Postseason,3,Clemson
+2020,Postseason,4,Texas A&M
+2020,Postseason,5,Notre Dame
+2020,Postseason,6,Oklahoma
+2020,Postseason,7,Georgia
+2020,Postseason,8,Cincinnati
+2020,Postseason,9,Iowa State
+2020,Postseason,10,Northwestern
+2020,Postseason,11,BYU
+2020,Postseason,12,Indiana
+2020,Postseason,13,Florida
+2020,Postseason,14,Coastal Carolina
+2020,Postseason,15,Louisiana
+2020,Postseason,16,Iowa
+2020,Postseason,17,Liberty
+2020,Postseason,18,North Carolina
+2020,Postseason,19,Texas
+2020,Postseason,20,Oklahoma State
+2020,Postseason,21,USC
+2020,Postseason,22,Miami (FL)
+2020,Postseason,23,Ball State
+2020,Postseason,24,San Jose State
+2020,Postseason,25,Buffalo
+2021,Preseason,1,Alabama
+2021,Preseason,2,Oklahoma
+2021,Preseason,3,Clemson
+2021,Preseason,4,Ohio State
+2021,Preseason,5,Georgia
+2021,Preseason,6,Texas A&M
+2021,Preseason,7,Iowa State
+2021,Preseason,8,Cincinnati
+2021,Preseason,9,Notre Dame
+2021,Preseason,10,North Carolina
+2021,Preseason,11,Oregon
+2021,Preseason,12,Wisconsin
+2021,Preseason,13,Florida
+2021,Preseason,14,Miami (FL)
+2021,Preseason,15,USC
+2021,Preseason,16,LSU
+2021,Preseason,17,Indiana
+2021,Preseason,18,Iowa
+2021,Preseason,19,Penn State
+2021,Preseason,20,Washington
+2021,Preseason,21,Texas
+2021,Preseason,22,Coastal Carolina
+2021,Preseason,23,Louisiana
+2021,Preseason,24,Utah
+2021,Preseason,25,Arizona State
+2021,Postseason,1,Georgia
+2021,Postseason,2,Alabama
+2021,Postseason,3,Michigan
+2021,Postseason,4,Cincinnati
+2021,Postseason,5,Baylor
+2021,Postseason,6,Ohio State
+2021,Postseason,7,Oklahoma State
+2021,Postseason,8,Notre Dame
+2021,Postseason,9,Michigan State
+2021,Postseason,10,Oklahoma
+2021,Postseason,11,Ole Miss
+2021,Postseason,12,Utah
+2021,Postseason,13,Pittsburgh
+2021,Postseason,14,Clemson
+2021,Postseason,15,Wake Forest
+2021,Postseason,16,Louisiana
+2021,Postseason,17,Houston
+2021,Postseason,18,Kentucky
+2021,Postseason,19,BYU
+2021,Postseason,20,NC State
+2021,Postseason,21,Arkansas
+2021,Postseason,22,Oregon
+2021,Postseason,23,Iowa
+2021,Postseason,24,Utah State
+2021,Postseason,25,San Diego State
+2022,Preseason,1,Alabama
+2022,Preseason,2,Ohio State
+2022,Preseason,3,Georgia
+2022,Preseason,4,Clemson
+2022,Preseason,5,Notre Dame
+2022,Preseason,6,Texas A&M
+2022,Preseason,7,Utah
+2022,Preseason,8,Michigan
+2022,Preseason,9,Oklahoma
+2022,Preseason,10,Baylor
+2022,Preseason,11,Oregon
+2022,Preseason,12,Oklahoma State
+2022,Preseason,13,NC State
+2022,Preseason,14,USC
+2022,Preseason,15,Michigan State
+2022,Preseason,16,Miami (FL)
+2022,Preseason,17,Pittsburgh
+2022,Preseason,18,Wisconsin
+2022,Preseason,19,Arkansas
+2022,Preseason,20,Kentucky
+2022,Preseason,21,Ole Miss
+2022,Preseason,22,Wake Forest
+2022,Preseason,23,Cincinnati
+2022,Preseason,24,Houston
+2022,Preseason,25,BYU
+2022,Postseason,1,Georgia
+2022,Postseason,2,TCU
+2022,Postseason,3,Michigan
+2022,Postseason,4,Ohio State
+2022,Postseason,5,Alabama
+2022,Postseason,6,Tennessee
+2022,Postseason,7,Penn State
+2022,Postseason,8,Washington
+2022,Postseason,9,Tulane
+2022,Postseason,10,Utah
+2022,Postseason,11,Florida State
+2022,Postseason,12,USC
+2022,Postseason,13,Clemson
+2022,Postseason,14,Kansas State
+2022,Postseason,15,Oregon
+2022,Postseason,16,LSU
+2022,Postseason,17,Oregon State
+2022,Postseason,18,Notre Dame
+2022,Postseason,19,Troy
+2022,Postseason,20,Mississippi State
+2022,Postseason,21,UCLA
+2022,Postseason,22,Pittsburgh
+2022,Postseason,23,South Carolina
+2022,Postseason,24,Fresno State
+2022,Postseason,25,Texas
+2023,Preseason,1,Georgia
+2023,Preseason,2,Michigan
+2023,Preseason,3,Ohio State
+2023,Preseason,4,Alabama
+2023,Preseason,5,LSU
+2023,Preseason,6,USC
+2023,Preseason,7,Penn State
+2023,Preseason,8,Florida State
+2023,Preseason,9,Clemson
+2023,Preseason,10,Washington
+2023,Preseason,11,Texas
+2023,Preseason,12,Tennessee
+2023,Preseason,13,Notre Dame
+2023,Preseason,14,Utah
+2023,Preseason,15,Oregon
+2023,Preseason,16,Kansas State
+2023,Preseason,17,TCU
+2023,Preseason,18,Oregon State
+2023,Preseason,19,Wisconsin
+2023,Preseason,20,Oklahoma
+2023,Preseason,21,North Carolina
+2023,Preseason,22,Ole Miss
+2023,Preseason,23,Texas A&M
+2023,Preseason,24,Tulane
+2023,Preseason,25,Iowa
+2023,Postseason,1,Michigan
+2023,Postseason,2,Washington
+2023,Postseason,3,Texas
+2023,Postseason,4,Georgia
+2023,Postseason,5,Alabama
+2023,Postseason,6,Florida State
+2023,Postseason,7,Oregon
+2023,Postseason,8,Missouri
+2023,Postseason,9,Ole Miss
+2023,Postseason,10,Ohio State
+2023,Postseason,11,Arizona
+2023,Postseason,12,LSU
+2023,Postseason,13,Penn State
+2023,Postseason,14,Notre Dame
+2023,Postseason,15,Oklahoma
+2023,Postseason,16,Oklahoma State
+2023,Postseason,17,Tennessee
+2023,Postseason,18,Kansas State
+2023,Postseason,19,Louisville
+2023,Postseason,20,Clemson
+2023,Postseason,21,NC State
+2023,Postseason,22,SMU
+2023,Postseason,23,Kansas
+2023,Postseason,24,Iowa
+2023,Postseason,25,Liberty
+2024,Preseason,1,Georgia
+2024,Preseason,2,Ohio State
+2024,Preseason,3,Oregon
+2024,Preseason,4,Texas
+2024,Preseason,5,Alabama
+2024,Preseason,6,Ole Miss
+2024,Preseason,7,Notre Dame
+2024,Preseason,8,Penn State
+2024,Preseason,9,Michigan
+2024,Preseason,10,Florida State
+2024,Preseason,11,Missouri
+2024,Preseason,12,Utah
+2024,Preseason,13,LSU
+2024,Preseason,14,Clemson
+2024,Preseason,15,Tennessee
+2024,Preseason,16,Oklahoma
+2024,Preseason,17,Oklahoma State
+2024,Preseason,18,Kansas State
+2024,Preseason,19,Miami (FL)
+2024,Preseason,20,Texas A&M
+2024,Preseason,21,Arizona
+2024,Preseason,22,Kansas
+2024,Preseason,23,USC
+2024,Preseason,24,NC State
+2024,Preseason,25,Iowa
+2024,Postseason,1,Ohio State
+2024,Postseason,2,Notre Dame
+2024,Postseason,3,Oregon
+2024,Postseason,4,Texas
+2024,Postseason,5,Penn State
+2024,Postseason,6,Georgia
+2024,Postseason,7,Arizona State
+2024,Postseason,8,Boise State
+2024,Postseason,9,Tennessee
+2024,Postseason,10,Indiana
+2024,Postseason,11,Ole Miss
+2024,Postseason,12,SMU
+2024,Postseason,13,BYU
+2024,Postseason,14,Clemson
+2024,Postseason,15,Iowa State
+2024,Postseason,16,Illinois
+2024,Postseason,17,Alabama
+2024,Postseason,18,Miami (FL)
+2024,Postseason,19,South Carolina
+2024,Postseason,20,Syracuse
+2024,Postseason,21,Army
+2024,Postseason,22,Missouri
+2024,Postseason,23,UNLV
+2024,Postseason,24,Memphis
+2024,Postseason,25,Colorado
+2025,Preseason,1,Texas
+2025,Preseason,2,Penn State
+2025,Preseason,3,Ohio State
+2025,Preseason,4,Clemson
+2025,Preseason,5,Georgia
+2025,Preseason,6,Notre Dame
+2025,Preseason,7,Oregon
+2025,Preseason,8,Alabama
+2025,Preseason,9,LSU
+2025,Preseason,10,Miami (FL)
+2025,Preseason,11,Arizona State
+2025,Preseason,12,Illinois
+2025,Preseason,13,South Carolina
+2025,Preseason,14,Michigan
+2025,Preseason,15,Florida
+2025,Preseason,16,SMU
+2025,Preseason,17,Kansas State
+2025,Preseason,18,Oklahoma
+2025,Preseason,19,Texas A&M
+2025,Preseason,20,Indiana
+2025,Preseason,21,Ole Miss
+2025,Preseason,22,Iowa State
+2025,Preseason,23,Texas Tech
+2025,Preseason,24,Tennessee
+2025,Preseason,25,Boise State
+2025,Postseason,1,Indiana
+2025,Postseason,2,Miami (FL)
+2025,Postseason,3,Ole Miss
+2025,Postseason,4,Oregon
+2025,Postseason,5,Ohio State
+2025,Postseason,6,Georgia
+2025,Postseason,7,Texas Tech
+2025,Postseason,8,Texas A&M
+2025,Postseason,9,Alabama
+2025,Postseason,10,Notre Dame
+2025,Postseason,11,BYU
+2025,Postseason,12,Texas
+2025,Postseason,13,Oklahoma
+2025,Postseason,14,Utah
+2025,Postseason,15,Vanderbilt
+2025,Postseason,16,Virginia
+2025,Postseason,17,Iowa
+2025,Postseason,18,Tulane
+2025,Postseason,19,James Madison
+2025,Postseason,20,USC
+2025,Postseason,21,Michigan
+2025,Postseason,22,Houston
+2025,Postseason,23,Navy
+2025,Postseason,24,North Texas
+2025,Postseason,25,TCU
